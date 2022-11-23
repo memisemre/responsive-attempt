@@ -1,0 +1,17 @@
+/* Reset Css */
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+body{
+    line-height: 1;
+}
+ol,ul,li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
